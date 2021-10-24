@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YXZhai97
 - 👀 I’m interested in robotics, control theory, motion planning, machine learning and DL 
-- 🌱 I’m currently learning python and matlab for motion planning tasks 
+- 🌱 I’m currently doing my master thesis about multiple robot path planning and learning cpp and ROS. 
 - 📫 How to reach me: I'm shy 
 
 <!---
